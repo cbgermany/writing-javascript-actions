@@ -13,4 +13,4 @@ jobs:
       with:
        first-greeting: "Learning Lab User"
        secong-greeting: "Second lab uaer"
-       thrird:greeting: "Fianl user"
+       third:greeting: "Final user"
