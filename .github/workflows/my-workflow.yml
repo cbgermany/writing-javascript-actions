@@ -10,3 +10,7 @@ jobs:
 
     - name: hello-action
       uses: ./.github/actions/hello-world
+      with:
+       first-greeting: "Learning Lab User"
+       secong-greeting: "Second lab uaer"
+       thrird:greeting: "Fianl user"
